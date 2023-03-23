@@ -1,0 +1,46 @@
+html{
+    border: 2px solid black;
+    font-family: Cambria, Cochin;
+    margin: 10px;
+    padding: 10px;
+}
+header{
+    background-color: black;
+    color: aqua;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+}
+nav{
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.column{
+background-color: yellow;
+float:left;
+height: 85vh;
+width: 30vw;
+}
+.side{
+    background-color: yellow;
+    float: right;
+    height: 85vh;
+    width: 30vw;
+}
+h3{
+    padding-left: 10px;
+}
+
+footer{
+ background-color:black;
+ color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 8vh;
+margin-top:100% ;
+}
+#d1{
+margin-top: 5px;
+padding-top: 10px;
+}
